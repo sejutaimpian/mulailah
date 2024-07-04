@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Mulailah belajar shortcut keyboard",
+    "body": "Bekerja dengan keyboard saja tanpa menggunakan mouse akan membuatmu merasakan sensasi menjadi hacker, hehe. Selain itu, dengan hanya menggunakan keyboard, kita jadi lebih menghemat waktu dalam bekerja (Walaupun awalnya malah memperlambat  sih 😅)",
+    "created_at": "03/07/2014",
+    "author": "Eris Sulistina"
+  },
+  {
+    "id": 2,
+    "title": "Mulailah Membuat VSCODE menjadi Luar Biasa 🔥",
+    "body": "Kalau kamu sudah lama menggunakan vscode, maka sudah saatnya kamu memaksimalkan kekuatan dari vscode. vscode memiliki banyak sekali fitur tersembunyi yang bisa kalian manfaatkan untuk memaksimalkanmu dalam ngoding. Tulisan ini terinspirasi dari makevscodeawesome.com. Sebenarnya website itu berisi jualan buku untuk membuat vscode luar biasa, jadi ada harganya. Tapi sebagai programmer, saya yakin kalian bisa untuk mengutak-atik settingan vscode agar menjadi lebih awesome secara mandiri.",
+    "created_at": "04/07/2014",
+    "author": "Eris Sulistina"
+  }
+]
